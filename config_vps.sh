@@ -4,7 +4,7 @@
 set -e
 
 # URL base do GitHub (substitua pelo seu repositório)
-BASE_URL="https://raw.githubusercontent.com/seuusuario/seurepo/main"
+BASE_URL="https://raw.githubusercontent.com/JrMCZ2023/config_vps/main"
 
 # Lista de scripts que o master deve baixar
 FILES=(
